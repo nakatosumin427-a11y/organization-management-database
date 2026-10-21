@@ -4,6 +4,5 @@ This database is for BrightPath organization. They have many offices and problem
 
 Tables: office, department, staff, department_assignment, project, project_participation, equipment, equipment_assignment.
 
-How to run: create db, run schema.sql, then seed.sql.
 
 by nakato sumini
